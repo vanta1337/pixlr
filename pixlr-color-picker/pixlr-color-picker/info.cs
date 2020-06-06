@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BetterForm_v2;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,6 +20,7 @@ namespace pixlr_color_picker
             InitializeComponent();
         }
 
+        //Shows the build number declared in Form1
         private void info_Load(object sender, EventArgs e)
         {
             darkModeLabel5.Text = "build: " + Form1.version;
