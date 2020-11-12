@@ -1,6 +1,33 @@
-<img src="https://cdn.discordapp.com/attachments/573970356709097472/718610968946671666/vantaexternal.png" width="150" height="150" />
+# Pixlr
+![](https://cdn.discordapp.com/attachments/766624895739625502/776385134047133736/onlinelogomaker-111220-1056-5539-2000-transparent.png)
 
-# Pixlr 
-#### Pixlr - Open source c# color picker
-#### Pixlr is an easy to use color picker for windows.
-#### Gui Framework by bear.#9665
+Pixlr is a c# color picker
+# Features
+
+  - Pick the color of the pixel your mouse is on
+  - Supports hex and rgb
+  - Clean UI
+  - Easy to use
+
+You can also:
+  - Copy the hex value
+  - Copy the rgb value
+  - Run it in the background
+
+
+### Installation
+
+Pixlr requires .net to run.
+#### 1.
+- Clone the repository and build it
+
+### Todos
+
+ - Fix UI
+ - Fix source
+ 
+### Credits
+
+ - thebear (ui framework)
+
+
